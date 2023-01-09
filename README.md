@@ -1,1 +1,2 @@
-"# 2022_Digital_Circuit_Lab" 
+2022 NYCU
+Digital Circuit Lab" 
